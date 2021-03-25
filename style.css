@@ -1,0 +1,117 @@
+#navigate
+{
+    background-color: black;
+    margin: auto;
+    width: 60%;
+    box-shadow: 5px 5px  10px grey;
+    padding: 10px;
+}
+#navigate a
+{
+    color:aqua;
+    text-decoration:none;
+}
+#navigate a:hover{
+    background-color: rgb(173, 243, 243);
+    box-shadow: 5px 5px 10px rgb(141, 161, 161);
+    border-radius:3px;
+    color:black;
+}
+
+
+#title
+{
+    margin: auto;
+    width: 100%;
+    border: 3px solid grey;
+    padding: 10px;
+    text-align:center;
+}
+#images
+{
+    text-align: center;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+#tribute-info
+{
+    height:370px;
+    background-color:rgb(223, 222, 222);
+    box-shadow:3px 3px 10px rgb(173, 172, 172);
+}
+
+#info-left
+{
+    float:left;
+    width:48%;
+    padding:10px;
+    margin-left: 20px;
+}
+#info-right
+{
+    float:right;
+    width:50%;
+    border:1px solid rgb(223, 222, 222);
+    height:370px;
+    background-color:rgb(247, 246, 246);
+}
+#timeline
+{
+    height:3500px;
+}
+
+.float-left p
+{
+    width:65%;
+    margin-top:10px;
+    padding :20px;
+    border-left : 10px solid rgb(140, 202, 243);
+    border-top-left-radius :20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgb(228, 245, 245);
+}
+.float-left p:hover
+{
+    width:65%;
+    margin-top:10px;
+    padding :20px;
+    border-left : 10px solid rgb(130, 164, 236);
+    border-top-left-radius :20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgb(210, 250, 250);
+    box-shadow :5px 5px 10px rgb(193, 207, 238);
+    
+}
+.float-right p{
+    float:right;
+    width :65%;
+    margin-top:10px;
+    padding :20px;
+    border-left : 10px solid rgb(238, 186, 186);
+    border-top-left-radius :20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgb(243, 239, 239);
+}
+.float-right p:hover{
+    width :65%;
+    margin-top:10px;
+    padding :20px;
+    border-left : 10px solid rgb(229, 147, 147);
+    border-top-left-radius :20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgb(252, 245, 245);
+    box-shadow: 5px 5px 10px rgb(235, 203, 203);
+}
+#acheivements
+{
+    height:200px;
+    width:80%;
+    margin:auto;
+}
+#acheivements ul li{
+    list-style-type: none;
+    padding:15px;
+    background-color:rgb(237, 246, 247);
+   
+}
